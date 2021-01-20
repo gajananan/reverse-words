@@ -40,7 +40,7 @@ var (
 	)
 )
 
-var version = "v0.0.210"
+var version = "v0.0.211"
 
 // ReturnRelease returns the release configured by the user
 func ReturnRelease(w http.ResponseWriter, r *http.Request) {
